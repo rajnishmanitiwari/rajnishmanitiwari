@@ -1,7 +1,5 @@
 ### Hello World, I'm Rajnish <a href="https://withkoji.com/@rajnish.mani"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200" />
- 
-  <br/>
 
 ## I'm a Student, Developer, Creator and Mentor!!
  
@@ -14,7 +12,7 @@
 - 💬 &nbsp;Ask me about ... Anything
 - 😄 &nbsp;Pronouns: He/Him
 - ⚡ &nbsp;Fun fact: I speak 4 languages **(English, Hindi, Sanskrit, Punjabi)**
- 
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200" />
   <br/>
 
 📕 &nbsp;**Latest Blog Posts**
@@ -58,8 +56,6 @@
 Hii, I'm Rajnish. 
 I'm a Student, data analytics intern, Full Stack Web Developer with 1 year of experience in developing applications and open-source software.
  
-  <br/>
-
 ### **What I did in my past years**:
  
   <br/>
