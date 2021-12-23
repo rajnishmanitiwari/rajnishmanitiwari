@@ -1,7 +1,7 @@
 ### Hello World, I'm Rajnish <a href="https://withkoji.com/@rajnish.mani"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
 ## I'm a Student, Developer, Creator and Mentor!!
-<img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200" /> 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
   <br/>
 
 - ✍ &nbsp;You can find my projects here **[Portfolio](https://withkoji.com/@rajnish.mani)**
@@ -11,6 +11,7 @@
 - 💬 &nbsp;Ask me about ... Anything
 - 😄 &nbsp;Pronouns: He/Him
 - ⚡ &nbsp;Fun fact: I speak 4 languages **(English, Hindi, Sanskrit, Punjabi)**
+  
   <br/>
   
 📕 &nbsp;**Latest Blog Posts**
