@@ -96,7 +96,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 <br/>
 <br/>
 
-<a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-activity-graph"><img alt="Rajnish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RAJNISH-MANI-TIWARI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-activity-graph"><img alt="Rajnish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RAJNISH-MANI-TIWARI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 
