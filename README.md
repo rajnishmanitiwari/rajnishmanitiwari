@@ -84,7 +84,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
   <br/>
 
 <details>
-  <summary><b>📊&nbsp;&nbsp;My&nbsp;GitHub Stats</b></summary>
+  <summary><b>📊&nbsp;&nbsp;My&nbsp;GitHub Stats</b></summary> 
     <br/>
     <a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-stats"><img alt="Rajnish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAJNISH-MANI-TIWARI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
