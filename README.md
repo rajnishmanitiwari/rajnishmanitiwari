@@ -41,8 +41,8 @@
   <br/>
 
 <p align="left">
-    <a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="RAJNISH-MANI-TIWARI's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=RAJNISH-MANI-TIWARI&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/rajnishmanitiwari/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rajnishmanitiwari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishmanitiwari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  
@@ -86,9 +86,9 @@ Most of the open-source projects I create are the solutions to the problems I fa
 <details>
   <summary><b>📊&nbsp;&nbsp;My&nbsp;GitHub Stats</b></summary> 
     <br/>
-    <a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-stats"><img alt="Rajnish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=RAJNISH-MANI-TIWARI&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/rajnishmanitiwari/github-readme-stats"><img alt="Rajnish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajnishmanitiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
-  <a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-stats"><img alt="Rajnish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJNISH-MANI-TIWARI&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/rajnishmanitiwari/github-readme-stats"><img alt="Rajnish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnishmanitiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -96,7 +96,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 <br/>
 <br/>
 
-<a href="https://github.com/RAJNISH-MANI-TIWARI/github-readme-activity-graph"><img alt="Rajnish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RAJNISH-MANI-TIWARI&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
+<a href="https://github.com/rajnishmanitiwari/github-readme-activity-graph"><img alt="Rajnish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajnishmanitiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
 
 <br/>
 
