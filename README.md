@@ -117,7 +117,7 @@ Most of the open-source projects I create are the solutions to the problems I fa
 ❤ **Views and Followers**
 <br/>
 
-<a href="https://github.com/RAJNISH-MANI-TIWARI/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=RAJNISH-MANI-TIWARI">
+<a href="https://github.com/rajnishmanitiwari/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=rajnishmanitiwari">
 </a>
-<a href="https://github.com/RAJNISH-MANI-TIWARI?tab=followers"><img src="https://img.shields.io/github/followers/RAJNISH-MANI-TIWARI?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/rajnishmanitiwari?tab=followers"><img src="https://img.shields.io/github/followers/rajnishmanitiwari?label=Followers&style=social" alt="GitHub Badge"></a>
