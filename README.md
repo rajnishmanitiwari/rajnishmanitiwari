@@ -4,7 +4,7 @@
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
   <br/>
 
-- ✍ &nbsp;You can find my projects here **[Portfolio](https://bio.link/rajnish)**
+- ✍ &nbsp;You can find my projects here **[Portfolio](https://rajnishmanitiwari.bio.link)**
 - 🔭 &nbsp;I’m currently working **AI based Projects**.
 - 🌱 &nbsp;I’m currently learning **Data Science and Analysis**.
 - 👯 &nbsp;I’m looking to collaborate on **Opensource Projects**.
