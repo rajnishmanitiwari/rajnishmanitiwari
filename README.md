@@ -103,6 +103,7 @@ If you are interested in connecting with me to discuss data science, technology,
 ---
 <!-- Snake code contribution diagram -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
+
 ---
 
 <br/>
