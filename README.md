@@ -52,24 +52,11 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hii, I'm Rajnish. 
-I'm a Student, data analytics intern, Full Stack Web Developer with 1 year of experience in developing applications and open-source software.
- 
-### **What I did in my past years**:
- 
-  <br/>
+Hi there! My name is Rajnish Mani Tiwari and I am a data scientist and entrepreneur with a passion for using data to drive business growth. With an exceptional experience in data analysis and machine learning, I have a track record of delivering valuable insights and solutions to my clients.
 
+In addition to my professional work, I am also an active member of the data science and technology communities. I enjoy staying up to date with the latest developments in my field, and I love connecting with like-minded individuals who share my passion for data and technology.
 
-🏆 I have learned the importance of applying classical strategies to modern-day projects.
-
-🏆 Concentrations in Data Science & Software engineering provide me broad knowledge of Data analysis and handling concepts.
-
-🏆 Participated in Many National & International level Coding Competitions. Led several projects & patent procedures with my Software Engineering team Which helped me in TEAM-WORKING skills.
-
-🏆 Experience at CodeChef, AIT as a summer intern taught me how to apply Analytical concepts to automated systems to gather information from any field.
-
-Most of the open-source projects I create are the solutions to the problems I face in my life, there are even more that are yet unsolved. I am on a journey to find solutions for them, one at a time.
-
+If you are interested in connecting with me to discuss data science, technology, or entrepreneurship, I would love to hear from you. Whether you are looking for advice, collaboration, or just want to chat about the latest developments in the field, I am always happy to connect with members of the community. Feel free to reach out to me on GitHub or LinkedIn to start a conversation. I look forward to connecting with you!
 </details> 
  
   <br/>
@@ -112,6 +99,12 @@ Most of the open-source projects I create are the solutions to the problems I fa
 
 </details>
 <br/>
+
+---
+<!-- Snake code contribution diagram -->
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
+---
+
 <br/>
 
 ❤ **Views and Followers**
