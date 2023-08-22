@@ -52,7 +52,7 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hi there! My name is Rajnish Mani Tiwari and I am a data scientist and entrepreneur with a passion for using data to drive business growth. With an exceptional experience in data analysis and machine learning, I have a track record of delivering valuable insights and solutions to my clients.
+Hi there! My name is Rajnish Mani Tiwari and I am a data scientist and Product Manager with a passion for using data to drive business growth. With an exceptional experience in data analysis and machine learning, I have a track record of delivering valuable insights and Product solutions to my clients.
 
 In addition to my professional work, I am also an active member of the data science and technology communities. I enjoy staying up to date with the latest developments in my field, and I love connecting with like-minded individuals who share my passion for data and technology.
 
