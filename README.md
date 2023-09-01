@@ -1,16 +1,15 @@
 ### Hello World, I'm Rajnish <a href="https://withkoji.com/@rajnish.mani"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
-## I'm a Student, Developer, Creator and Mentor!!
+## I build data-driven products that people love
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
   <br/>
 
-- ✍ &nbsp;You can find my projects here **[Portfolio](https://rajnishmanitiwari.me/#portfolio)**
-- 🔭 &nbsp;I’m currently working **AI based Projects**.
-- 🌱 &nbsp;I’m currently learning **Data Science and Analysis**.
-- 👯 &nbsp;I’m looking to collaborate on **Opensource Projects**.
-- 💬 &nbsp;Ask me about ... Anything
-- 😄 &nbsp;Pronouns: He/Him
-- ⚡ &nbsp;Fun fact: I speak 4 languages **(English, Hindi, Sanskrit, Punjabi)**
+- 💡 &nbsp; Have a brilliant idea? Let's build an incredible product together.
+- 🤝 &nbsp; Interested in leveraging data to grow your business? Yes, I got your back.
+- 🔍 &nbsp; Need deeper insights from your data? I distill complex analytics into clear, actionable recommendations.   
+- 🚀 &nbsp; Want to take your product to the next level? I combine data smarts with intuitive design to create great user experiences.
+- 🗣 &nbsp; I love collaborating with visionary leaders to make ideas happen. Let's chat about how we can work together!
+- 🌟 &nbsp; Whether is it data, AI, or product I'm with you From ideation to launch and beyond.
   
   <br/>
   
@@ -27,10 +26,10 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajnish-mani-tiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="gautamkrishnar" height="40" width="40" /></a>
-<a href="https://twitter.com/TheRajnishMani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajnish-mani-tiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rajnishmanitiwari" height="40" width="40" /></a>
+<a href="https://twitter.com/TheRajnishMani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
 <a href="mailto:mr.rajnishmani@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
-<a href="https://www.instagram.com/rajnish.mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+<a href="https://www.instagram.com/rajnish.mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
  
   <br/>
  
