@@ -1,18 +1,25 @@
-### Hello World, I'm Rajnish <a href="https://withkoji.com/@rajnish.mani"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
+### Hello World, I'm Rajnish <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
 ## I build data-driven products that people love
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
   <br/>
 
-- 💡 &nbsp; Have a brilliant idea? Let's build an incredible product together.
-- 🤝 &nbsp; Interested in leveraging data to grow your business? Yes, I got your back.
-- 🔍 &nbsp; Need deeper insights from your data? I distill complex analytics into clear, actionable recommendations.   
-- 🚀 &nbsp; Want to take your product to the next level? I combine data smarts with intuitive design to create great user experiences.
-- 🗣 &nbsp; I love collaborating with visionary leaders to make ideas happen. Let's chat about how we can work together!
-- 🌟 &nbsp; Whether is it data, AI, or product I'm with you From ideation to launch and beyond.
-  
+💎 &nbsp; **How I'm going to help you build an incredible product?**
+- Leverage data to grow your business.
+- Distill complex analytics into clear, actionable recommendations.   
+- Combine data smarts with intuitive design to create great user experiences.
+- Build a smooth and efficient system From ideation to launch and beyond.
   <br/>
-  
+    <br/>
+
+
+💡 &nbsp; **Interested to work together or Have a brilliant idea?** 
+      <br/>
+           <br/>
+     Drop an email <a href="mailto:work@rajnishmanitiwari.me">here</a>, I love collaborating with visionary leaders to make ideas happen.
+  <br/>
+          <br/>
+          
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [How to prevent GitHub from suspending your cronjob based triggers](https://dev.to/gautamkrishnar/how-to-prevent-github-from-suspending-your-cronjob-based-triggers-knf)
@@ -28,7 +35,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rajnish-mani-tiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rajnishmanitiwari" height="40" width="40" /></a>
 <a href="https://twitter.com/TheRajnishMani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
-<a href="mailto:mr.rajnishmani@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
+<a href="mailto:work@rajnishmanitiwari.me" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
 <a href="https://www.instagram.com/rajnish.mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
  
   <br/>
@@ -51,11 +58,11 @@
   <summary><b>✨&nbsp;&nbsp;About&nbsp;Me</b></summary>
   <br/>
 
-Hi there! My name is Rajnish Mani Tiwari and I am a data scientist and Product Manager with a passion for using data to drive business growth. With an exceptional experience in data analysis and machine learning, I have a track record of delivering valuable insights and Product solutions to my clients.
+Hello! My name is Rajnish Mani Tiwari, and I am an experienced data scientist and product manager with a passion for using data to drive business growth. With a proven track record of building trend-setting products, I excel at delivering actionable insights and robust product solutions to my clients.
 
-In addition to my professional work, I am also an active member of the data science and technology communities. I enjoy staying up to date with the latest developments in my field, and I love connecting with like-minded individuals who share my passion for data and technology.
+In addition to client work, I actively participate in the Tech and Product communities. Staying current with the latest developments in my field brings me joy, as does connecting with other data and tech enthusiasts. I love collaborating with like-minded professionals and exploring new ways data can transform businesses and enhance people's lives.
 
-If you are interested in connecting with me to discuss data science, technology, or entrepreneurship, I would love to hear from you. Whether you are looking for advice, collaboration, or just want to chat about the latest developments in the field, I am always happy to connect with members of the community. Feel free to reach out to me on GitHub or LinkedIn to start a conversation. I look forward to connecting with you!
+If you are interested in connecting with me to discuss data science, technology, or Products, I would love to hear from you. Whether you are looking for advice, collaboration, or just want to chat about the latest developments in the field, I am always happy to connect with members of the community. Feel free to reach out to me on Email or LinkedIn to start a conversation. I look forward to connecting with you!
 </details> 
  
   <br/>
