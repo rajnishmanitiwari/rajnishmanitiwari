@@ -33,9 +33,9 @@
 🔗 &nbsp;**Connect with me**
 
 <p align="left">
-<a href="https://www.linkedin.com/in/rajnish-mani-tiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rajnishmanitiwari" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/rajnishmanitiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rajnishmanitiwari" height="40" width="40" /></a>
 <a href="https://twitter.com/TheRajnishMani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
-<a href="mailto:work@rajnishmanitiwari.me" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
+<a href="mailto:rajnishmanitiwari.work@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
 <a href="https://www.instagram.com/rajnish.mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
  
   <br/>
