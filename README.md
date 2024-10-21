@@ -5,7 +5,7 @@
   <br/>
 
 💎 &nbsp; **How I'm going to help you build an incredible product?**
-- Leverage data to grow your business.
+- Leverage AI to Automate & Scale your business.
 - Distill complex analytics into clear, actionable recommendations.   
 - Combine data smarts with intuitive design to create great user experiences.
 - Build a smooth and efficient system From ideation to launch and beyond.
@@ -77,27 +77,6 @@ If you are interested in connecting with me to discuss data science, technology,
   <br/>
 
 <details>
-  <summary><b>📊&nbsp;&nbsp;My&nbsp;GitHub Stats</b></summary> 
-    <br/>
-    <a href="https://github.com/rajnishmanitiwari/github-readme-stats"><img alt="Rajnish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rajnishmanitiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  
-  <a href="https://github.com/rajnishmanitiwari/github-readme-stats"><img alt="Rajnish's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajnishmanitiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-
-<br/>
-<br/>
-
-<a href="https://github.com/rajnishmanitiwari/github-readme-activity-graph"><img alt="Rajnish's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rajnishmanitiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> 
-
-<br/>
-
-</details>
- 
-  <br/>
-
-<details>
   <summary><b>🔒&nbsp;&nbsp;Programming&nbsp;Jokes</b></summary>
   <br/>
 
@@ -105,10 +84,6 @@ If you are interested in connecting with me to discuss data science, technology,
 
 </details>
 <br/>
-
----
-<!-- Snake code contribution diagram -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/tarunbisht-24/tarunbisht-24/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ---
 
