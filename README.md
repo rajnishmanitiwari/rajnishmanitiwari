@@ -16,7 +16,7 @@
 💡 &nbsp; **Interested to work together or Have a brilliant idea?** 
       <br/>
            <br/>
-     Drop an email <a href="mailto:rajnishmanitiwari.work+github@gmail.com">here</a> I love collaborating with visionary leaders to make ideas happen.
+     Drop an email <a href="mailto:rajnish+github@nynexa.com">here</a> I love collaborating with visionary leaders to make ideas happen.
   <br/>
           <br/>
           
