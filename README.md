@@ -1,4 +1,4 @@
-### Hello World, I'm Rajnish <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
+### Hey, This is Rajnish <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
 ## I build data-driven products that people love
 <img align="right" alt="GIF" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="250" height="300" /> 
@@ -34,23 +34,11 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/rajnishmanitiwari/" target="blank"><img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="rajnishmanitiwari" height="40" width="40" /></a>
-<a href="https://twitter.com/TheRajnishMani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
-<a href="mailto:rajnishmanitiwari.work@gmail.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
-<a href="https://www.instagram.com/rajnish.mani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
+<a href="https://x.com/RajnishMTiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
+<a href="mailto:rajnish+github@nynexa.com" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/logo-gmail-png/logo-gmail-png-file-gmail-icon-svg-wikimedia-commons-0.png" alt="4214976" height="45" width="46" /></a>
+<a href="https://www.instagram.com/rajnish.mani.tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rajnishmanitiwari" height="30" width="40" /></a>
  
   <br/>
- 
-  <br/>
-
-📊 &nbsp;**GitHub Contributions**
- 
-  <br/>
-
-<p align="left">
-    <a href="https://github.com/rajnishmanitiwari/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="rajnishmanitiwari's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnishmanitiwari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
  
   <br/>
 
