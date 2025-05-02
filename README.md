@@ -1,6 +1,6 @@
 ### Hey, This is Rajnish Mani Tiwari <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
-## I'm a technology entrepreneur & Investor
+## Technology entrepreneur & Investor
   <br/>
 
 💎 &nbsp; **Currently, I spend most of my time across three things:**
