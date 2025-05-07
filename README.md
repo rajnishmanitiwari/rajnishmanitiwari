@@ -13,7 +13,7 @@
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
 - [Why do I believe in what I believe in](https://www.rajnishmanitiwari.com/about/belief)
-- [Manifesto - Mission, Vision & Values](https://www.rajnishmanitiwari.com/about/manifesto)
+- [A Bold Experiment with Myself](https://www.rajnishmanitiwari.com/about/experiment)
 - [Surveys I'm collecting data for](https://www.rajnishmanitiwari.com/resources/surveys/)
 - [Thoughts behind Nynexa](https://www.rajnishmanitiwari.com/about/nynexa/)
 <!-- BLOG-POST-LIST:END -->
