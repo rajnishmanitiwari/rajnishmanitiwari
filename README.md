@@ -1,4 +1,4 @@
-### Hey, This is Rajnish Mani Tiwari <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
+### Rajnish Mani Tiwari <a href="https://rajnishmanitiwari.bio.link"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="16px"></a>
 
 ## Technology entrepreneur & Investor
   <br/>
