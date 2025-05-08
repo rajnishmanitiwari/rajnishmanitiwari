@@ -30,8 +30,6 @@
   <br/>
 
 <br/>
-
-💎 **Views and Followers**
 <br/>
 
 <a href="https://github.com/rajnishmanitiwari/github-profile-views-counter">
